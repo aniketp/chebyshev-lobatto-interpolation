@@ -7,8 +7,8 @@ polynomial interpolation, following <br> the paper *Finding the Zeros of a Univa
 
 Made as the Course Project 2 for Numerical Analysis and Scientific Computing-1 (MTH308B).
 
-For functions with insanely large evaluation points, the observed accuracy improvements were a factor of 10 trillion
-as compared to the [naive](https://wikimedia.org/api/rest_v1/media/math/render/svg/2fc8fc879e273783e08491c6957b6b3b842a1b99) interpolation function,
+For functions with insanely large evaluation points, the observed accuracy improved by a factor of *10 trillion*
+as compared to the [naive](https://wikimedia.org/api/rest_v1/media/math/render/svg/2fc8fc879e273783e08491c6957b6b3b842a1b99) interpolation method,
 after multiple runs on Matlab 2019a interpreter.
 
 ### References
